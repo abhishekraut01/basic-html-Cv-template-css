@@ -1,0 +1,33 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    background: #EAF6f6;
+}
+
+.circleImg {
+    border-radius: 80%;
+  }
+
+hr {
+    border-style: none;
+   border-top-style: dotted;
+    border-width:5px ;
+    border-color: #caf4f4;
+    width: 5%;
+}
+h1 , h2 {
+    color: #66BFBF;
+     
+}
+
+.title:hover{
+    color: gold;
+}
+
+a:link {color: lightblue;}  
+a:visited {color: #060235}  
+a:hover {color: #FCFC0C}  
+a:active {color: #C0F0FC}  
